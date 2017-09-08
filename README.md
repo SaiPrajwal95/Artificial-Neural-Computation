@@ -1,2 +1,2 @@
 # Artificial-Neural-Computation
-This is repository has all my assignments and projects for the course Artificial Neural Computation
+This repository has all my assignment submissions and projects corresponding to the course 'Artificial Neural Computation'
